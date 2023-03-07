@@ -1,0 +1,17 @@
+D:\1302210095\modul3_1302210095\modul3_1302210095\bin\Debug\net6.0-windows\modul3_1302210095.exe
+D:\1302210095\modul3_1302210095\modul3_1302210095\bin\Debug\net6.0-windows\modul3_1302210095.deps.json
+D:\1302210095\modul3_1302210095\modul3_1302210095\bin\Debug\net6.0-windows\modul3_1302210095.runtimeconfig.json
+D:\1302210095\modul3_1302210095\modul3_1302210095\bin\Debug\net6.0-windows\modul3_1302210095.dll
+D:\1302210095\modul3_1302210095\modul3_1302210095\bin\Debug\net6.0-windows\modul3_1302210095.pdb
+D:\1302210095\modul3_1302210095\modul3_1302210095\obj\Debug\net6.0-windows\modul3_1302210095.csproj.AssemblyReference.cache
+D:\1302210095\modul3_1302210095\modul3_1302210095\obj\Debug\net6.0-windows\modul3_1302210095.Form1.resources
+D:\1302210095\modul3_1302210095\modul3_1302210095\obj\Debug\net6.0-windows\modul3_1302210095.csproj.GenerateResource.cache
+D:\1302210095\modul3_1302210095\modul3_1302210095\obj\Debug\net6.0-windows\modul3_1302210095.GeneratedMSBuildEditorConfig.editorconfig
+D:\1302210095\modul3_1302210095\modul3_1302210095\obj\Debug\net6.0-windows\modul3_1302210095.AssemblyInfoInputs.cache
+D:\1302210095\modul3_1302210095\modul3_1302210095\obj\Debug\net6.0-windows\modul3_1302210095.AssemblyInfo.cs
+D:\1302210095\modul3_1302210095\modul3_1302210095\obj\Debug\net6.0-windows\modul3_1302210095.csproj.CoreCompileInputs.cache
+D:\1302210095\modul3_1302210095\modul3_1302210095\obj\Debug\net6.0-windows\modul3_1302210095.dll
+D:\1302210095\modul3_1302210095\modul3_1302210095\obj\Debug\net6.0-windows\refint\modul3_1302210095.dll
+D:\1302210095\modul3_1302210095\modul3_1302210095\obj\Debug\net6.0-windows\modul3_1302210095.pdb
+D:\1302210095\modul3_1302210095\modul3_1302210095\obj\Debug\net6.0-windows\modul3_1302210095.genruntimeconfig.cache
+D:\1302210095\modul3_1302210095\modul3_1302210095\obj\Debug\net6.0-windows\ref\modul3_1302210095.dll
